@@ -3,6 +3,10 @@
 ## Overview
 The **ESP32 Energy Meter for Agriculture Automation** is a versatile, IoT-enabled embedded system designed for precision energy monitoring and seamless integration into agricultural environments. Built on the powerful **ESP32-S3 microcontroller**, this project combines wide-range power capabilities, isolated communication, and advanced peripherals to enhance automation, data management, and control for modern agriculture.
 
+![Front View](https://github.com/karthirilla/ESP32_ENERGY_METER/blob/main/ESP32_Energy_Meter_Front_Black.png)
+![Back View](https://github.com/karthirilla/ESP32_ENERGY_METER/blob/main/ESP32_Energy_Meter_Back_Black.png)
+
+
 ---
 
 ## Key Features
